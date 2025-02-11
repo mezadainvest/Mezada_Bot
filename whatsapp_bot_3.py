@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-import fitz  # PyMuPDF
+#import fitz  # PyMuPDF
 import sqlite3
 import threading
 from flask import Flask, request
