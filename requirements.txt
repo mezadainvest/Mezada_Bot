@@ -4,3 +4,4 @@ python-dotenv
 langchain
 twilio
 flask
+groq
