@@ -1,0 +1,14 @@
+streamlit
+requests
+python-dotenv
+pywhatkit
+plotly
+fitz
+numpy
+langchain
+groq
+fpdf
+faiss
+pandas
+twilio
+flask
